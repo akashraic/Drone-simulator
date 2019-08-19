@@ -1,0 +1,77 @@
+﻿  main.c
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(13): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(52): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(214): warning C4018: '<': signed/unsigned mismatch
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(216): warning C4018: '<': signed/unsigned mismatch
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(149): warning C4101: 'ch2': unreferenced local variable
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(148): warning C4101: 'k': unreferenced local variable
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(147): warning C4101: 'index': unreferenced local variable
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(149): warning C4101: 'ch1': unreferenced local variable
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(242): warning C4244: 'function': conversion from 'float' to 'unsigned int', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(242): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(310): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(277): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(279): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(280): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(281): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(282): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(284): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(286): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(287): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(289): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(578): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(589): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(625): warning C4047: '!=': 'CubeMesh *' differs in levels of indirection from 'CubeMesh (*)[30]'
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\main.c(630): warning C4047: '!=': 'CubeMesh *' differs in levels of indirection from 'CubeMesh (*)[30]'
+  drone.c
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(16): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(18): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(29): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(111): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(123): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(133): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(144): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(148): warning C4244: 'function': conversion from 'double' to 'GLint', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(155): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(161): warning C4244: 'function': conversion from 'double' to 'GLint', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(169): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(185): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(199): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(210): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(213): warning C4244: 'function': conversion from 'double' to 'GLint', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(219): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(225): warning C4244: 'function': conversion from 'double' to 'GLint', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(232): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(247): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(247): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(261): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(272): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(276): warning C4244: 'function': conversion from 'double' to 'GLint', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(282): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(288): warning C4244: 'function': conversion from 'double' to 'GLint', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(295): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(295): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(310): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(310): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(324): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(335): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(338): warning C4244: 'function': conversion from 'double' to 'GLint', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(344): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(350): warning C4244: 'function': conversion from 'double' to 'GLint', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(357): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(357): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(372): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\drone.c(372): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+  QuadMesh.c
+  ExtrudeMesh.c
+  CubeMesh.c
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\cubemesh.c(79): warning C4305: '=': truncation from 'double' to 'float'
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\cubemesh.c(88): warning C4305: '=': truncation from 'double' to 'float'
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\cubemesh.c(89): warning C4305: '=': truncation from 'double' to 'float'
+e:\ryerson university\year 3 (2018 - 2019)\semester 1\cps 511 - computer graphics\assignments\assignment 2\cubemesh.c(90): warning C4305: '=': truncation from 'double' to 'float'
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  subdivisionCurve.cpp
+  QuadMeshNormal.cpp
+  Assignment2.vcxproj -> C:\Users\akash_ze16shp\source\repos\Assignment2\Debug\Assignment2.exe
